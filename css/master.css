@@ -1,0 +1,21 @@
+h1 {
+  color: #0f0;
+}
+
+h2 {
+  color: pink;
+}
+
+p {
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+li {
+  font-size: 25px;
+}
+
+img {
+  max-width: 400px;
+}
