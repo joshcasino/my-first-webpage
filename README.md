@@ -17,7 +17,7 @@ During the first class at Epicodus, we created our first HTML page using Git, HT
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+There are no known bugs.
 
 ## Support and contact details
 
